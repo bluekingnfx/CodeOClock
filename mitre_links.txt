@@ -1,0 +1,100 @@
+Take a Tour: https://attack.mitre.org/#
+Service Stop: https://attack.mitre.org/techniques/T1489
+Techniques: https://attack.mitre.org/techniques/
+Exfiltration Over Web Service (4): https://attack.mitre.org/techniques/T1567
+Data from Information Repositories (3): https://attack.mitre.org/techniques/T1213
+Steal or Forge Kerberos Tickets (4): https://attack.mitre.org/techniques/T1558
+Log Enumeration: https://attack.mitre.org/techniques/T1654
+Terms of Use: https://attack.mitre.org/resources/legal-and-branding/terms-of-use
+Obtain Capabilities (7): https://attack.mitre.org/techniques/T1588
+Non-Application Layer Protocol: https://attack.mitre.org/techniques/T1095
+Credential Access: https://attack.mitre.org/tactics/TA0006
+Contribute: https://attack.mitre.org/resources/engage-with-attack/contribute
+Access Token Manipulation (5): https://attack.mitre.org/techniques/T1134
+Create Account (3): https://attack.mitre.org/techniques/T1136
+Modify Registry: https://attack.mitre.org/techniques/T1112
+Brute Force (4): https://attack.mitre.org/techniques/T1110
+Phishing (4): https://attack.mitre.org/techniques/T1566
+Reflective Code Loading: https://attack.mitre.org/techniques/T1620
+Browser Session Hijacking: https://attack.mitre.org/techniques/T1185
+Compromise Accounts (3): https://attack.mitre.org/techniques/T1586
+Defenses: https://attack.mitre.org/datasources
+Office Application Startup (6): https://attack.mitre.org/techniques/T1137
+Traffic Signaling (2): https://attack.mitre.org/techniques/T1205
+File and Directory Permissions Modification (2): https://attack.mitre.org/techniques/T1222
+Inter-Process Communication (3): https://attack.mitre.org/techniques/T1559
+Transfer Data to Cloud Account: https://attack.mitre.org/techniques/T1537
+Automated Collection: https://attack.mitre.org/techniques/T1119
+Screen Capture: https://attack.mitre.org/techniques/T1113
+Impact: https://attack.mitre.org/tactics/TA0040
+Gather Victim Network Information (6): https://attack.mitre.org/techniques/T1590
+Automated Exfiltration (1): https://attack.mitre.org/techniques/T1020
+Hardware Additions: https://attack.mitre.org/techniques/T1200
+Server Software Component (5): https://attack.mitre.org/techniques/T1505
+Query Registry: https://attack.mitre.org/techniques/T1012
+System Network Connections Discovery: https://attack.mitre.org/techniques/T1049
+Shared Modules: https://attack.mitre.org/techniques/T1129
+CTI: https://attack.mitre.org/groups
+Abuse Elevation Control Mechanism (6): https://attack.mitre.org/techniques/T1548
+Network Share Discovery: https://attack.mitre.org/techniques/T1135
+Hide Infrastructure: https://attack.mitre.org/techniques/T1665
+Develop Capabilities (4): https://attack.mitre.org/techniques/T1587
+Deobfuscate/Decode Files or Information: https://attack.mitre.org/techniques/T1140
+Network Denial of Service (2): https://attack.mitre.org/techniques/T1498
+Account Manipulation (6): https://attack.mitre.org/techniques/T1098
+Remote Service Session Hijacking (2): https://attack.mitre.org/techniques/T1563
+Exfiltration: https://attack.mitre.org/tactics/TA0010
+Defense Evasion: https://attack.mitre.org/tactics/TA0005
+Forced Authentication: https://attack.mitre.org/techniques/T1187
+Use Alternate Authentication Material (4): https://attack.mitre.org/techniques/T1550
+Escape to Host: https://attack.mitre.org/techniques/T1611
+Cloud Service Dashboard: https://attack.mitre.org/techniques/T1538
+Weaken Encryption (2): https://attack.mitre.org/techniques/T1600
+Archive Collected Data (3): https://attack.mitre.org/techniques/T1560
+Dynamic Resolution (3): https://attack.mitre.org/techniques/T1568
+Ingress Tool Transfer: https://attack.mitre.org/techniques/T1105
+Benefactors: https://attack.mitre.org/resources/engage-with-attack/benefactors/
+Windows Management Instrumentation: https://attack.mitre.org/techniques/T1047
+System Service Discovery: https://attack.mitre.org/techniques/T1007
+Exfiltration Over Other Network Medium (1): https://attack.mitre.org/techniques/T1011
+Impair Defenses (11): https://attack.mitre.org/techniques/T1562
+Execution: https://attack.mitre.org/tactics/TA0002
+Rootkit: https://attack.mitre.org/techniques/T1014
+Privacy Policy: https://attack.mitre.org/resources/legal-and-branding/privacy
+Modify Cloud Compute Infrastructure (5): https://attack.mitre.org/techniques/T1578
+System Location Discovery (1): https://attack.mitre.org/techniques/T1614
+Group Policy Discovery: https://attack.mitre.org/techniques/T1615
+Communication Through Removable Media: https://attack.mitre.org/techniques/T1092
+Compromise Infrastructure (8): https://attack.mitre.org/techniques/T1584
+Inhibit System Recovery: https://attack.mitre.org/techniques/T1490
+System Owner/User Discovery: https://attack.mitre.org/techniques/T1033
+Obfuscated Files or Information (13): https://attack.mitre.org/techniques/T1027
+Multi-Factor Authentication Interception: https://attack.mitre.org/techniques/T1111
+Boot or Logon Initialization Scripts (5): https://attack.mitre.org/techniques/T1037
+Masquerading (9): https://attack.mitre.org/techniques/T1036
+Data from Network Shared Drive: https://attack.mitre.org/techniques/T1039
+Event Triggered Execution (16): https://attack.mitre.org/techniques/T1546
+Process Discovery: https://attack.mitre.org/techniques/T1057
+Remote Access Software: https://attack.mitre.org/techniques/T1219
+Gather Victim Identity Information (3): https://attack.mitre.org/techniques/T1589
+External Remote Services: https://attack.mitre.org/techniques/T1133
+Resources: https://attack.mitre.org/resources/
+Gather Victim Org Information (4): https://attack.mitre.org/techniques/T1591
+Adversary-in-the-Middle (3): https://attack.mitre.org/techniques/T1557
+Steal or Forge Authentication Certificates: https://attack.mitre.org/techniques/T1649
+Unsecured Credentials (8): https://attack.mitre.org/techniques/T1552
+Exploitation for Defense Evasion: https://attack.mitre.org/techniques/T1211
+System Network Configuration Discovery (2): https://attack.mitre.org/techniques/T1016
+Taint Shared Content: https://attack.mitre.org/techniques/T1080
+Contact Us: https://attack.mitre.org/resources/engage-with-attack/contact
+Supply Chain Compromise (3): https://attack.mitre.org/techniques/T1195
+Multi-Factor Authentication Request Generation: https://attack.mitre.org/techniques/T1621
+Browser Information Discovery: https://attack.mitre.org/techniques/T1217
+Resource Development: https://attack.mitre.org/tactics/TA0042
+Exploitation for Credential Access: https://attack.mitre.org/techniques/T1212
+Tactics: https://attack.mitre.org/tactics/
+Peripheral Device Discovery: https://attack.mitre.org/techniques/T1120
+Boot or Logon Autostart Execution (14): https://attack.mitre.org/techniques/T1547
+System Time Discovery: https://attack.mitre.org/techniques/T1124
+Browser Extensions: https://attack.mitre.org/techniques/T1176
+Scheduled Transfer: https://attack.mitre.org/techniques/T1029
